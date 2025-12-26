@@ -1,0 +1,9 @@
+class A
+{
+    private string _s
+}
+
+void main()
+{
+    println("Hello World")
+}

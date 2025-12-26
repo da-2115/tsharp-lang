@@ -1,0 +1,6 @@
+.antlr
+.vscode
+build/
+gen/
+tsharp
+tsharp.exe
